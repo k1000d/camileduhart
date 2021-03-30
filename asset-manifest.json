@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/camileduhart/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/camileduhart/static/js/main.b2723525.chunk.js",
-    "main.js.map": "/camileduhart/static/js/main.b2723525.chunk.js.map",
-    "runtime-main.js": "/camileduhart/static/js/runtime-main.ea11bee1.js",
-    "runtime-main.js.map": "/camileduhart/static/js/runtime-main.ea11bee1.js.map",
-    "static/js/2.9c03c563.chunk.js": "/camileduhart/static/js/2.9c03c563.chunk.js",
-    "static/js/2.9c03c563.chunk.js.map": "/camileduhart/static/js/2.9c03c563.chunk.js.map",
-    "static/js/3.4d34a785.chunk.js": "/camileduhart/static/js/3.4d34a785.chunk.js",
-    "static/js/3.4d34a785.chunk.js.map": "/camileduhart/static/js/3.4d34a785.chunk.js.map",
+    "main.css": "/camileduhart/static/css/main.8dd50bd6.chunk.css",
+    "main.js": "/camileduhart/static/js/main.e70d5b6d.chunk.js",
+    "main.js.map": "/camileduhart/static/js/main.e70d5b6d.chunk.js.map",
+    "runtime-main.js": "/camileduhart/static/js/runtime-main.a261d3ee.js",
+    "runtime-main.js.map": "/camileduhart/static/js/runtime-main.a261d3ee.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/camileduhart/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b989478a.chunk.js": "/camileduhart/static/js/2.b989478a.chunk.js",
+    "static/js/2.b989478a.chunk.js.map": "/camileduhart/static/js/2.b989478a.chunk.js.map",
+    "static/js/3.fa9c23cd.chunk.js": "/camileduhart/static/js/3.fa9c23cd.chunk.js",
+    "static/js/3.fa9c23cd.chunk.js.map": "/camileduhart/static/js/3.fa9c23cd.chunk.js.map",
     "index.html": "/camileduhart/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/camileduhart/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.9c03c563.chunk.js.LICENSE.txt": "/camileduhart/static/js/2.9c03c563.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/camileduhart/static/media/logo.6ce24c58.svg"
+    "static/css/2.4c97ca4f.chunk.css.map": "/camileduhart/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8dd50bd6.chunk.css.map": "/camileduhart/static/css/main.8dd50bd6.chunk.css.map",
+    "static/js/2.b989478a.chunk.js.LICENSE.txt": "/camileduhart/static/js/2.b989478a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea11bee1.js",
-    "static/js/2.9c03c563.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.b2723525.chunk.js"
+    "static/js/runtime-main.a261d3ee.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b989478a.chunk.js",
+    "static/css/main.8dd50bd6.chunk.css",
+    "static/js/main.e70d5b6d.chunk.js"
   ]
 }
